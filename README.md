@@ -141,8 +141,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
  ```
 Скриншот:
-![image](https://github.com/user-attachments/assets/831f8957-36d1-4347-b717-b19386facdd5)
-![image](https://github.com/user-attachments/assets/30a0c4c6-61c5-4561-81f1-b46a67fa2f56)
+![image](https://github.com/user-attachments/assets/d49d799d-a292-48dd-84b7-8e0c903b6f94)
+![image](https://github.com/user-attachments/assets/e394c978-c0b5-4868-8bb3-816ef74b2db8)
+
+
 
 4. Создание теста
    
@@ -198,5 +200,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
    ```
 Скриншот:
 ![image](https://github.com/user-attachments/assets/ce0cb2fe-5cd1-4e21-a51f-eebacb78fd92)
+
+## 5. Ответы на контрольные вопросы
+
 
 
