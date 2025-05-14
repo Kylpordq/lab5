@@ -219,6 +219,7 @@ $_POST - массив, содержащий данные из формы, отп
 ## 6. Список использованных источников
 
 https://metanit.com/php/tutorial/3.4.php
+
 https://www.php.net/manual/ru/tutorial.forms.php
 
 
