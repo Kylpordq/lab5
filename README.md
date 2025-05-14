@@ -71,7 +71,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 2. Получение данных с различных контроллеров
    
-      ```php
+   ```php
  <?php
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $age = $_POST['age'];
@@ -194,7 +194,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 ?>
 
    ```
-Скришнот:
+Скриншот:
 ![image](https://github.com/user-attachments/assets/ce0cb2fe-5cd1-4e21-a51f-eebacb78fd92)
 
 
