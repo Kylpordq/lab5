@@ -70,8 +70,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 ![image](https://github.com/user-attachments/assets/0f6d45ef-3ec5-44e7-92e7-3853e40be082)
 
 2. Получение данных с различных контроллеров
-   
-   ```php
+
+ ```php
  <?php
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $age = $_POST['age'];
@@ -82,16 +82,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 }
 ?>
-   ```
+```
 Скриншот:
 ![image](https://github.com/user-attachments/assets/2406030b-e4a9-4e22-8dd1-d735c88e63a3)
 
 3. Создание, обработка и валидация форм
-Объясните, чем отличаются глобальные переменные $_REQUEST и $_POST.
+ Объясните, чем отличаются глобальные переменные $_REQUEST и $_POST.
 $_REQUEST - Объединяет $_GET, $_POST B $_COOKIE. Имеет проблемы с безопасностью.
 $_POST - массив, содержащий данные из формы, отправленные методом POST.
 
-     ```php
+```php
 <?php
 $name = $email = $comment = "";
 $agree = false;
@@ -137,7 +137,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-   ```
+ ```
 Скриншот:
 ![image](https://github.com/user-attachments/assets/831f8957-36d1-4347-b717-b19386facdd5)
 ![image](https://github.com/user-attachments/assets/30a0c4c6-61c5-4561-81f1-b46a67fa2f56)
